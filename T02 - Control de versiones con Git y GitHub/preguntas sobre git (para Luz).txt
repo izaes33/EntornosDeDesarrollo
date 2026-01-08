@@ -1,0 +1,11 @@
+01. En la carpeta del proyecto se van modificando las cosas conforme las vamos editando... ¿Cuándo dices que -git init- añade los cambios a la carpeta local te refieres a que lo hace dentro del fichero oculto git, cierto?
+
+02. A la hora de enlazar un remoto (git remote add), ¿Qué pasa con las diferencias entre ambos? Es decir, partiendo de la base, el nombre del repositorio como mínimo deberá de ser igual, e imagino que a parte de un nombre, un repo debe de tener un ID único, ¿cierto?
+
+03. ¿Qué pasa si no se hiciera git remote remove origin después de un git reset --hard nºcommit?
+
+04. ¿En GitHub puede ser que la rama principal aparezca como main y en Git como Master, cómo se gestiona esto?
+
+05. En el ejercicio3 del bloque de deshacer cambios, ¿qué hace exactamente el comando -git reset- al no pasarle ninguna bandera?
+
+06. (Por otro lado, estoy teniendo problemas al fusionar las ramas en GitHub, te agradeceré enormemente si me permites compartir pantalla 5 minutos para que lo veamos).
